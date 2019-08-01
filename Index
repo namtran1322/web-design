@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+<link rel="stylesheet" type="text/css" href=style.css>
+</head>
+
+<body>
+<nav>
+    	<ul>
+			<li><a href="Index.html">index</a></li>
+        	<li><a href="Media.html">media</a></li>
+            
+            <li><a href="signup.html">signup</a></li>
+        </ul>
+    </nav>
+	<section>
+    	<article>
+        	<p> Music works on the autonomic nervous system - the part of the nervous system responsible for controlling our blood pressure, heartbeat and brain function - and also the limbic system - the part of the brain that controls feelings and emotions. According to one piece of research, both these systems react sensitively to music.
+When slow rhythms are played, our blood pressure and heartbeat slow down which helps us breathe more slowly, thus reducing muscle tension in our neck, shoulders, stomach and back. And experts say that apart from physical tension, music also reduces psychological tension in our mind.
+In other words when we feel pain, we become frightened, frustrated and angry which makes us tense up hundreds of muscles in our back. Listening to music on a regular basis helps our bodies relax physically and mentally, thus helping to relieve - and prevent - back pain.</p>
+		</article>
+    </section>
+
+</body>
+</html>
