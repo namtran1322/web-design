@@ -1,0 +1,37 @@
+section {
+	font-family: Droid sans , sans-serif;
+}
+
+li {
+	display: inline;
+	
+	
+}
+a {color: white;
+}
+article {
+	
+	
+
+border-width: medium;
+
+color: black;
+ 
+width: 640px;
+}
+
+footer  {color: white;
+font-size: 200%;
+
+
+}
+
+h1 {text-align: center;}
+
+
+
+body {
+    background-image: url("giphy.gif");
+    background-repeat: no-repeat;
+	background-size: 100%	;
+}
